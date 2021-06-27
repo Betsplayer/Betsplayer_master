@@ -1,0 +1,9 @@
+Building Betsplayer
+
+See doc/readme-qt.rst for instructions on building Betsplayer QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Betsplayer.
+
+See doc/build-*.txt for instructions on building Betsplayerd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Betsplayer.
