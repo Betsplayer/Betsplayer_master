@@ -30,8 +30,8 @@ A Betsplayer, é uma criptomoeda descentralizada, pertencente ao universo do din
 
 ### COMMUNITY
 
-site - Future
-*  --
+site
+*  https://betsplayer.info/
 
 Explorer
 * http://explorer.betsplayer.info/
