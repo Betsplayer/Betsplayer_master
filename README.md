@@ -62,4 +62,4 @@ Mídias Sociais
 ### LICENSE
 -------
 
-Released under the MIT License. See LICENSE file.
+Released open
