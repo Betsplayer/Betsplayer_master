@@ -4,8 +4,6 @@
 -------
 
 Bem vindos a Betsplayer
-
-A Betsplayer, é uma criptomoeda descentralizada, pertencente ao universo do dinheiro digital como o Bitcoin. Betsplayer também utiliza a tecnologia peer-to-peer para operar sem nenhuma autoridade central e utiliza o protocolo de mineração Proof of Stake (POS).
   
 ### TECHNICAL DATA
 
